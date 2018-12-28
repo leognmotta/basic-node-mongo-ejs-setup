@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
